@@ -19,7 +19,7 @@ AI Researcher | Anomaly Detection | Generative AI
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/mshdjren/Comfyui_wafer">
-        <img src="https://github.com/mshdjren/Comfyui_wafer/blob/main/docs/wafer_preview.png?raw=true" width="100%">
+        <img src="https://github.com/mshdjren/Comfyui_wafer/blob/main/results/SDXL_IPAdapter_impainting.jpg" width="100%">
       </a>
       <br>
       <strong>ComfyUI Wafer Generator</strong>
