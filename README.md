@@ -73,5 +73,5 @@
 ## 🛠 Tech Stack
 
 * **Languages & Frameworks** : Python · PyTorch · TensorFlow · LangChain · LlamaIndex
-* **Infrastructure & Data** : *Kubernetes (GKE) · Docker · Elasticsearch · Google Cloud Platform (GCP)
-* **Tools** : *Git/GitHub · Linux (Ubuntu) · Streamlit · Hugging Face 
+* **Infrastructure & Data** : Kubernetes (GKE) · Docker · Elasticsearch · Google Cloud Platform (GCP)
+* **Tools** : Git/GitHub · Linux (Ubuntu) · Streamlit · Hugging Face 
