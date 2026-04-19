@@ -64,7 +64,7 @@
 
 ---
 ## 📊 Research Interests
-* **Anomaly Detection & Semantic Search & RAG**,
+* **Anomaly Detection & Semantic Search & RAG**
 * **LLM Optimization**
 * **Industrial AI Application**
 
