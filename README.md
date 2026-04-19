@@ -1,6 +1,8 @@
 # 👋 Sanghyuk Moon
 ## 📊 Research Interests
-* **Anomaly Detection & Semantic Search & RAG**, **LLM Optimization**, **Industrial AI Application**
+* **Anomaly Detection & Semantic Search & RAG**,
+* **LLM Optimization**
+* **Industrial AI Application**
 
 ---
 
