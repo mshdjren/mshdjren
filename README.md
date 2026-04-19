@@ -23,7 +23,7 @@ AI Researcher | Anomaly Detection | Generative AI
       </a>
       <br>
       <strong>WaferDC</strong>
-      <p>Collaboration Research: Wafer Defect Classification & Analysis</p>
+      <p>Research: Wafer Defect Classification & Generation</p>
     </td>
   </tr>
   
@@ -42,7 +42,7 @@ AI Researcher | Anomaly Detection | Generative AI
       </a>
       <br>
       <strong>RCAS</strong>
-      <p>Rule-based candidate retrieval system for large-scale routing queries</p>
+      <p>Class-swap learning for cGANs</p>
     </td>
   </tr>
 
@@ -53,15 +53,15 @@ AI Researcher | Anomaly Detection | Generative AI
       </a>
       <br>
       <strong>ComfyUI Wafer Generator</strong>
-      <p>Synthetic wafer defect generation using FLUX / diffusion workflows</p>
+      <p>Synthetic wafer defect generation using FLUX / diffusion workflows with ComfyUI</p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/mshdjren/recruit_data_analysis/tree/master">
         <img src="https://github.com/mshdjren/recruit_data_analysis/blob/master/k%3D20.jpg" width="100%">
       </a>
       <br>
-      <strong>Project 6</strong>
-      <p>Description for your upcoming sixth project</p>
+      <strong>DS-Projcet (Ajou University for sensor-big data course)</strong>
+      <p>2014~2018년도경기도 대학 졸업생 취업 현황 데이터 분석 프로젝트</p>
     </td>
   </tr>
 </table>
