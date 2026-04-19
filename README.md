@@ -1,4 +1,23 @@
 # 👋 Sanghyuk Moon
+## 📊 Research Interests
+
+* **Anomaly Detection & Semantic Search & RAG**: Tabular 및 이미지 데이터 기반 이상 탐지 RAG 파이프라인 설계 및 GKE 기반 서빙 최적화
+* **LLM Optimization**: Knowledge Distillation 및 GRPO 강화학습을 통한 모델 경량화 및 품질 개선 
+* **Industrial AI Application**: 반도체 웨이퍼 결함 검출/분류 및 생성형 AI 기반 데이터 증강 연구
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+Python · PyTorch · TensorFlow · LangChain · LlamaIndex
+
+**Infrastructure & Data**
+Kubernetes (GKE) · Docker · Elasticsearch · Google Cloud Platform (GCP)
+
+**Tools**
+Git/GitHub · Linux (Ubuntu) · Streamlit · Hugging Face 
+
 ---
 
 ## 🔬 Selected Projects
@@ -63,22 +82,3 @@
 </table>
 
 ---
-
-## 📊 Research Interests
-
-* **Anomaly Detection & Semantic Search & RAG**: Tabular 및 이미지 데이터 기반 이상 탐지 RAG 파이프라인 설계 및 GKE 기반 서빙 최적화
-* **LLM Optimization**: Knowledge Distillation 및 GRPO 강화학습을 통한 모델 경량화 및 품질 개선 
-* **Industrial AI Application**: 반도체 웨이퍼 결함 검출/분류 및 생성형 AI 기반 데이터 증강 연구
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Frameworks**
-Python · PyTorch · TensorFlow · LangChain · LlamaIndex
-
-**Infrastructure & Data**
-Kubernetes (GKE) · Docker · Elasticsearch · Google Cloud Platform (GCP)
-
-**Tools**
-Git/GitHub · Linux (Ubuntu) · Streamlit · Hugging Face 
