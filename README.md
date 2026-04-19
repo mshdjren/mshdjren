@@ -1,22 +1,4 @@
 # 👋 Sanghyuk Moon
-## 📊 Research Interests
-* **Anomaly Detection & Semantic Search & RAG**,
-* **LLM Optimization**
-* **Industrial AI Application**
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Frameworks**
-Python · PyTorch · TensorFlow · LangChain · LlamaIndex
-
-**Infrastructure & Data**
-Kubernetes (GKE) · Docker · Elasticsearch · Google Cloud Platform (GCP)
-
-**Tools**
-Git/GitHub · Linux (Ubuntu) · Streamlit · Hugging Face 
-
 ---
 
 ## 🔬 Selected Projects
@@ -81,3 +63,20 @@ Git/GitHub · Linux (Ubuntu) · Streamlit · Hugging Face
 </table>
 
 ---
+## 📊 Research Interests
+* **Anomaly Detection & Semantic Search & RAG**,
+* **LLM Optimization**
+* **Industrial AI Application**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+*Python · PyTorch · TensorFlow · LangChain · LlamaIndex
+
+**Infrastructure & Data**
+*Kubernetes (GKE) · Docker · Elasticsearch · Google Cloud Platform (GCP)
+
+**Tools**
+*Git/GitHub · Linux (Ubuntu) · Streamlit · Hugging Face 
