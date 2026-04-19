@@ -1,8 +1,4 @@
 # 👋 Sanghyuk Moon
-
-MS, Electronic Engineering
-AI Researcher | Anomaly Detection | Generative AI
-
 ---
 
 ## 🔬 Selected Projects
@@ -70,12 +66,19 @@ AI Researcher | Anomaly Detection | Generative AI
 
 ## 📊 Research Interests
 
-* AI-based anomaly detection
-* Generative AI for industrial data
-* Scalable ML systems
+* [cite_start]**Anomaly Detection & RAG**: Tabular 및 이미지 데이터 기반 이상 탐지 RAG 파이프라인 설계 및 GKE 기반 서빙 최적화 [cite: 19, 23, 24]
+* [cite_start]**LLM Optimization**: Knowledge Distillation 및 GRPO 강화학습을 통한 모델 경량화 및 품질 개선 [cite: 29, 30]
+* [cite_start]**Industrial AI Application**: 반도체 웨이퍼 결함 검출/분류 및 생성형 AI 기반 데이터 증강 연구 [cite: 9, 37, 50]
 
 ---
 
 ## 🛠 Tech Stack
 
-Python · PyTorch · Kubernetes · Kafka · Flink · Elasticsearch
+**Languages & Frameworks**
+[cite_start]Python · PyTorch · TensorFlow · LangChain · LlamaIndex [cite: 44, 47]
+
+**Infrastructure & Data**
+[cite_start]Kubernetes (GKE) · Docker · Elasticsearch · Google Cloud Platform (GCP) [cite: 46, 47, 48]
+
+**Tools**
+[cite_start]Git/GitHub · Linux (Ubuntu) · Streamlit · Hugging Face [cite: 46, 47]
