@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/mshdjren/Fraud-Detection-RAG-Pipeline">
+      <a href="https://github.com/mshdjren/Fraud-Detection-Agent-System-RAG-Pipeline-Improved">
         <img src="https://github.com/mshdjren/Fraud-Detection-RAG-Pipeline/blob/main/picture/llm_streamlit.jpg?raw=true" width="100%">
       </a>
       <br>
